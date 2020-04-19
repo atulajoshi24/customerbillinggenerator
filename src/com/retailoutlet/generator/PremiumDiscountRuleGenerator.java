@@ -9,8 +9,6 @@ public class PremiumDiscountRuleGenerator implements DiscountRuleGenerator {
 
 	@Override
 	public List<DiscountRule> getDiscountRule() {
-		// TODO Auto-generated method stub
-		//return null;
 		
 		List<DiscountRule> discountRules = new ArrayList<>();
 		
